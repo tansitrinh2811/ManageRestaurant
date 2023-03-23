@@ -1,0 +1,14 @@
+E:\ManageStoreFood\ManageStoreFood\bin\Debug\ManageStoreFood.exe.config
+E:\ManageStoreFood\ManageStoreFood\bin\Debug\ManageStoreFood.exe
+E:\ManageStoreFood\ManageStoreFood\bin\Debug\ManageStoreFood.pdb
+E:\ManageStoreFood\ManageStoreFood\obj\Debug\ManageStoreFood.csproj.AssemblyReference.cache
+E:\ManageStoreFood\ManageStoreFood\obj\Debug\ManageStoreFood.csproj.SuggestedBindingRedirects.cache
+E:\ManageStoreFood\ManageStoreFood\obj\Debug\ManageStoreFood.Properties.Resources.resources
+E:\ManageStoreFood\ManageStoreFood\obj\Debug\ManageStoreFood.csproj.GenerateResource.cache
+E:\ManageStoreFood\ManageStoreFood\obj\Debug\ManageStoreFood.csproj.CoreCompileInputs.cache
+E:\ManageStoreFood\ManageStoreFood\obj\Debug\ManageStoreFood.exe
+E:\ManageStoreFood\ManageStoreFood\obj\Debug\ManageStoreFood.pdb
+E:\ManageStoreFood\ManageStoreFood\obj\Debug\ManageStoreFood.fLogin.resources
+E:\ManageStoreFood\ManageStoreFood\obj\Debug\ManageStoreFood.fManage.resources
+E:\ManageStoreFood\ManageStoreFood\obj\Debug\ManageStoreFood.fAccountProfile.resources
+E:\ManageStoreFood\ManageStoreFood\obj\Debug\ManageStoreFood.fAdmin.resources
